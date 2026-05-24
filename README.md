@@ -70,7 +70,7 @@ The snake is expected to perform well because:
 - the snake regularization naturally favors smooth shapes.
 
 <p align="center">
-  <img src="results/drop/snake_evolution.png" width="700"/>
+  <img src="results/drop/snake_evolution.png" width="400"/>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ This object is less convex and contains stronger local geometric variations.
 This case is more challenging because the snake has to follow a boundary that is less smooth and less globally convex.
 
 <p align="center">
-  <img src="results/sablier/snake_evolution.png" width="700"/>
+  <img src="results/sablier/snake_evolution.png" width="400"/>
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ The goal was to check whether these external artifacts would significantly chang
 The experiment showed that the snake prediction remained approximately the same, meaning that the contour was mainly driven by the dominant object boundary rather than by small surrounding perturbations.
 
 <p align="center">
-  <img src="results/sablier/final_contour.png" width="650"/>
+  <img src="results/sablier/final_contour.png" width="350"/>
 </p>
 
 <p align="center">
@@ -145,7 +145,7 @@ The experiment showed that the snake prediction remained approximately the same,
 </p>
 
 <p align="center">
-  <img src="results/sablier_noise/final_contour.png" width="650"/>
+  <img src="results/sablier_noise/final_contour.png" width="350"/>
 </p>
 
 <p align="center">
